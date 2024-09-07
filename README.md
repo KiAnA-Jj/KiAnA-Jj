@@ -1,5 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
-<h1 align="center">Hi 👋, I'm KiAnA</h1>
+
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kiana;Learning+Full+Stack+Web+Development...👩🏻‍💻;" style="width: 100%;">
 <h3 align="center">Don't Give Up!</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/2669447cca1fb2702039f59dcd9717f3.gif">
 
