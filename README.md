@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiana208&label=Profile%20views&color=0e75b6&style=flat" alt="kiana208" /> </p>
 
-- 🌱 I’m currently learning **js & jQuery**
+- 🌱 I’m currently learning **php & laravel**
 - 🔭 I’m currently pursuing  **Full Stack Web Development**
 - ✨ I’m currently working on **my self to be a better developer**
 
